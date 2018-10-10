@@ -1,0 +1,22 @@
+tbl_barang
+	kode_barang
+	nama_barang
+	style
+	warna
+	satuan
+	harga
+	jumlah
+tbl_pelanggan
+	kode_pelanggan
+	nama_pelanggan
+	telp_pelanggan
+	alamat_pelanggan
+tbl_penjualan
+	no_penjualan
+	kode_barang
+	kode_pelanggan
+	jumlah_beli
+	tgl_penjualan
+	tgl_penerimaan
+	subtotal
+	keterangan
